@@ -201,6 +201,21 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# Personal Notes & Project Briefs
+high school.txt
+*.docx
+*.pdf
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# macOS system files
+.DS_Store
+
+# Pygame/Asset temp files (if any)
+*.log
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
