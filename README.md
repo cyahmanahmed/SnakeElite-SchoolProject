@@ -27,7 +27,7 @@ The project expands upon the traditional Snake game by introducing **multiple ga
 
 According to the project brief, students were required to:
 
-- Design and implement a **fully functional game** using Python
+- Design and implement a **fully functional game** using Python 
 - Apply **object-oriented design principles**
 - Use **external libraries** responsibly (Pygame)
 - Implement **multiple game states** (menus, gameplay, pause, game over)
