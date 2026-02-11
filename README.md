@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Snake Elite** is a feature-rich, arcade-style Snake game developed in **Python using Pygame** as part of an academic programming project completed in **May 2025**.  
 
@@ -23,7 +23,7 @@ The project expands upon the traditional Snake game by introducing **multiple ga
 
 ---
 
-## 🎯 Academic Project Requirements
+## Academic Project Requirements
 
 According to the project brief, students were required to:
 
@@ -40,15 +40,15 @@ Snake Elite was developed to meet **all required criteria**, while adding severa
 
 ---
 
-## 🕹️ Game Features
+##  Game Features
 
-### ✅ Core Gameplay
+###  Core Gameplay
 - Classic Snake mechanics
 - Smooth grid-based movement
 - Score tracking and level progression
 - Increasing difficulty based on performance
 
-### 🧩 Game Modes
+### Game Modes
 - **Classic Endless Mode**
   - Traditional Snake gameplay
   - Wrap-around screen movement
@@ -60,13 +60,13 @@ Snake Elite was developed to meet **all required criteria**, while adding severa
   - Collision-based movement restrictions
   - Unlockable mission levels
 
-### 🎨 Customization
+### Customization
 - Multiple **visual themes**
 - Selectable **snake skins**
 - Dynamic UI color adaptation
 - Visually distinct HUD and overlays
 
-### 📋 User Interface
+### User Interface
 - Interactive start menu
 - Mode selection screen
 - Terrain customization menu
@@ -76,7 +76,7 @@ Snake Elite was developed to meet **all required criteria**, while adding severa
 
 ---
 
-## 🧠 Technical Highlights
+## Technical Highlights
 
 - **Perfect Maze Generation Algorithm**
   - Depth-First Search (DFS) backtracking
@@ -88,7 +88,7 @@ Snake Elite was developed to meet **all required criteria**, while adding severa
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 - Completed all **project requirements** set by the instructor  
 - Implemented **advanced features** beyond the base assignment  
