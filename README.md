@@ -96,3 +96,24 @@ Snake Elite was developed to meet **all required criteria**, while adding severa
 - Successfully applied **DFS maze generation** in gameplay  
 
 ---
+
+## Deployment & Installation
+
+### Local Execution
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/snake-elite.git](https://github.com/YOUR_USERNAME/snake-elite.git)
+   cd snake-elite
+    ```
+
+2. **Install dependencies:**
+   ```bash
+   pip install pygame
+   ```
+
+3. **Run the game:**
+   ```bash
+   python main.py
+   ```
+
+
